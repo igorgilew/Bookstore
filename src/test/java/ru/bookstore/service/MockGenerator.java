@@ -1,8 +1,7 @@
-package service;
+package ru.bookstore.service;
 
 import ru.bookstore.annotation.interceptor.binding.Loggable;
 import ru.bookstore.annotation.qualifier.ThirteenDigits;
-import ru.bookstore.service.NumberGenerator;
 
 import javax.enterprise.inject.Alternative;
 import javax.inject.Inject;
